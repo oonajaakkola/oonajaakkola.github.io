@@ -2,6 +2,11 @@ link {
   display: none;
 }
 
+p {
+  text-align: center;
+  color: black;
+}
+
 
 h1 {
 color: #5e7564;
