@@ -1,6 +1,12 @@
 
 h1 {
-color: #5e7564;
-font-family: "Trebuchet Ms";
-font-size: 35px;
+ color: #5e7564;
+ font-family: "Trebuchet Ms";
+ font-size: 35px;
  }
+
+p {
+ color: black;
+ font-size: 16px;
+ font-family: "Trebuchet Ms";
+}
