@@ -8,5 +8,7 @@ h1 {
 p {
  
  font-family: "Trebuchet Ms";
+ color: Navy;
  font-size: 16px;
+ background-color: Lavender;
 }
