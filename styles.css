@@ -12,3 +12,12 @@ p {
  font-size: 16px;
  
 }
+
+ul.a {
+  list-style-type: upper-roman;
+}
+
+ul.b {
+  list-style-type: square;
+}
+
