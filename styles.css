@@ -8,7 +8,7 @@ h1 {
 div {
  display: block;
  border-style: dotted;
- border-size: 2px;
+ border-width: 2px;
  
 }
 
