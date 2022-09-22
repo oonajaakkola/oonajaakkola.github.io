@@ -5,6 +5,13 @@ h1 {
  font-size: 35px;
  }
 
+div {
+ display: block;
+ border-style: dotted;
+ border-size: 2px;
+ 
+}
+
 p {
  background-color: Lavender;
  color: Navy;
