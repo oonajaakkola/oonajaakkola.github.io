@@ -1,9 +1,7 @@
 a {
   color: pink;
-  border-width: 1px;
-  border-style: rounded;
- 
-}
+  border: 5px rounded beige;
+ }
 
 h1 {
  
