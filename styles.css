@@ -15,6 +15,9 @@ div {
  display: block;
  border-style: dotted;
  border-width: 2px;
+ width: 300px;
+ padding: 50px;
+ margin: 20px;
  
 }
 
