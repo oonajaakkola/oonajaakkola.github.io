@@ -42,6 +42,15 @@ div {
             background-color: #ffe6f2;
         }
 
+.indexdiv {
+ display: block;
+ border: 2px dotted pink;
+ width: 300px;
+ padding: 50px;
+ margin: 20px;
+  
+}
+
 p {
  background-color: #ffe6f2;;
  color: black;
