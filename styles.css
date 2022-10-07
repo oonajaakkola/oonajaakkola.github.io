@@ -13,9 +13,9 @@ h1 {
 
 div {
  display: block;
- border-style: dotted;
+ border-style: solid pink;
  border-width: 2px;
- width: 300px;
+ width: 350px;
  padding: 50px;
  margin: 20px;
  
