@@ -5,7 +5,6 @@ a {
 
 aside {
   float: right;
-  background-color: #FFFAF0;
 }
 
 h1 {
@@ -63,7 +62,7 @@ div {
 }
 
 p {
- background-color: #ffe6f2;;
+ background-color: #FFFAF0;
  color: black;
  font-family: "Trebuchet Ms";
  font-size: 16px;
