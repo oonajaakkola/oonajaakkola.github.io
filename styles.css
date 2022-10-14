@@ -3,6 +3,10 @@ a {
   border: 5px rounded #ffe6f2;;
  }
 
+aside {
+  float: right;
+}
+
 h1 {
  
  color: #5e7564;
