@@ -3,6 +3,22 @@ a {
   border: 5px rounded #ffe6f2;
  }
 
+/* visited link */
+a:visited {
+  color: #DDA0DD;
+}
+
+/* mouse over link */
+a:hover {
+  color: #DDA0DD;
+  box-shadow: inset 200px 0 0 0 #FFDAB9;
+}
+
+/* selected link */
+a:active {
+  color: #DDA0DD;
+}
+
 aside {
   float: right;
 }
