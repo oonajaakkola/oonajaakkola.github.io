@@ -42,6 +42,8 @@ header {
 div {
  display: block;
  border: 3px dashed #FFE4C4;
+ padding: 300px;
+ margin: 150px;
  
 }
 
