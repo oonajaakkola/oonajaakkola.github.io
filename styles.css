@@ -42,9 +42,8 @@ header {
 div {
  display: block;
  border: 2px dotted pink;
- width: 300px;
- padding: 50px;
- margin: 20px;
+ padding: 100px;
+ margin: 75px;
  
 }
 
