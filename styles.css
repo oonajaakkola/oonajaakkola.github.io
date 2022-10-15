@@ -41,7 +41,7 @@ header {
 
 div {
  display: block;
- border: 2px dotted pink;
+ border: 2px dotted #FFE4C4;
  
 }
 
@@ -51,7 +51,7 @@ div {
 
 .indexdiv {
  display: block;
- border: 2px dotted pink;
+ border: 2px dotted #FFE4C4;
  width: 170px;
  padding: 20px;
  margin: 20px;
