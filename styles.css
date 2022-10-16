@@ -77,7 +77,7 @@ header {
 nav {
   text-align: center;
   padding: 2px;
-    
+  display: inline;   
 }
 
 div {
