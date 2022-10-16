@@ -4,6 +4,7 @@ a {
   padding: 0 .25rem;
   transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
   letter-spacing: 1.2px;
+  background-color: #FFF0F5;
  }
 
 /* visited link */
