@@ -36,6 +36,9 @@ aside {
   padding: 15px 32px;
 }
   
+ .Column.right {
+   width: 25%;
+}
 
 h1 {
  
