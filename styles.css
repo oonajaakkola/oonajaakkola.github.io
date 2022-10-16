@@ -74,6 +74,11 @@ header {
   
 }
 
+nav {
+  text-align: center;
+  padding: 2px;
+    
+}
 
 div {
  display: block;
