@@ -16,13 +16,13 @@ a:visited {
 /* mouse over link */
 a:hover {
   color: #DDA0DD;
-  box-shadow: inset 200px 0 0 0 #FFDAB9;
+  box-shadow: inset 200px 0 0 0 white;
   letter-spacing: 1.5px;
 }
 
 /* selected link */
 a:active {
-  color: #DDA0DD;
+  color: white;
 }
 
 aside {
