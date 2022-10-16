@@ -78,14 +78,14 @@ header {
 div {
  display: block;
  border: 3px dashed #FFE4C4;
- padding: 150px;
- margin: 300px;
+ padding: 15px;
+ margin: 15px;
  
 }
 
  .list {
-            background-color: #ffe6f2;
-        }
+  background-color: #ffe6f2;
+}
 
 .indexdiv {
  display: block;
