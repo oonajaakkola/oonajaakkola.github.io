@@ -23,8 +23,8 @@ a:active {
 
 aside {
   float: right;
-  margin: 50px;
-  padding: 200px;
+  margin: 65px;
+  padding: 50x;
 }
 
 .button {
@@ -36,9 +36,6 @@ aside {
   padding: 15px 32px;
 }
   
- .Column.right {
-   width: 25%;
-}
 
 h1 {
  
@@ -78,8 +75,8 @@ header {
 div {
  display: block;
  border: 3px dashed #FFE4C4;
- padding: 15px;
- margin: 15px;
+ padding: 150px;
+ margin: 300px;
  
 }
 
