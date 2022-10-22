@@ -101,6 +101,7 @@ p {
  font-family: "Trebuchet Ms";
  font-size: 16px;
  padding: 2px;
+ margin-right: 5px;
  
 }
 
@@ -109,7 +110,7 @@ p {
 }
 
 ol {
-  list-style-type: upper-roman;
+  list-style-type: square;
   font-family: "Trebuchet Ms";
 }
 
