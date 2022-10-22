@@ -39,8 +39,8 @@ b {
 aside {
   
   float: right;
-  margin: 25px 25px 25px;
-  padding: 70x;
+  margin: 15px 15px 15px;
+  padding: 40x;
   
 }
 
@@ -85,7 +85,7 @@ nav {
   text-align: left;
   padding: 5px;
   display: inline;
-  font-size: 14px;
+  font-size: 20px;
   font-family: "Trebuchet Ms";
 }
 
