@@ -1,4 +1,5 @@
 a {
+  
   box-shadow: inset 0 0 0 0 #F08080;
   margin: 0 -.25rem;
   padding: 0 .25rem;
@@ -6,15 +7,19 @@ a {
   letter-spacing: 1.2px;
   background-color: #FFF0F5;
   display: block;
+  
  }
 
 /* visited link */
 a:visited {
+  
   color: #DDA0DD;
+  
 }
 
 /* mouse over link */
 a:hover {
+  
   color: #DDA0DD;
   box-shadow: inset 200px 0 0 0 white;
   letter-spacing: 1.5px;
@@ -22,17 +27,21 @@ a:hover {
 
 /* selected link */
 a:active {
+  
   color: white;
 }
 
 b {
+  
   color: pink;
 }
 
 aside {
+  
   float: right;
   margin: 25px;
   padding: 50x;
+  
 }
 
 
@@ -43,6 +52,7 @@ h1 {
  font-size: 35px;
  border: 5px solid pink;
  padding: 2px;
+  
  }
 
 h2 {
@@ -98,6 +108,10 @@ label {
   margin-right: 10px;
 }
 
+img {
+  border-radius: 50px;
+}
+
 .indexdiv {
  display: block;
  border: 3px dashed #FFE4C4;
@@ -109,6 +123,7 @@ label {
 }
 
 p {
+  
  background-color: Ivory White;
  color: black;
  font-family: "Trebuchet Ms";
@@ -118,17 +133,17 @@ p {
  
 }
 
- .Portfolio {
-   background-color: #ffe6f2;
-}
-
 ol {
+  
   list-style-type: square;
   font-family: "Trebuchet Ms";
+  
 }
 
 ul {
+  
   list-style-type: square;
   font-family: "Trebuchet Ms";
+  
 }
 
