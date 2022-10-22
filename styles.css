@@ -90,6 +90,7 @@ div {
 }
 
 label {
+  
   font-family: "Trebuchet Ms";
   font-size: 16px;
   padding: 2px;
@@ -101,7 +102,7 @@ label {
  border: 3px dashed #FFE4C4;
  width: 170px;
  height: 500px;
- padding:55px;
+ padding:20px;
  margin: 20px;
  absolute: right;
   
