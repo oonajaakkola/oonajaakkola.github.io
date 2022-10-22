@@ -31,15 +31,6 @@ aside {
   padding: 50x;
 }
 
-.button {
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  border: 5px rounded #ffe6f2; 
-  color: pink;
-  padding: 15px 32px;
-}
-  
 
 h1 {
  
@@ -91,7 +82,7 @@ div {
 }
 
  .list {
-  background-color: #ffe6f2;
+  background-color: white;
 }
 
 .indexdiv {
