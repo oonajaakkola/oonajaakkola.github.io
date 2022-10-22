@@ -85,11 +85,19 @@ div {
   background-color: white;
 }
 
+label {
+  font-family: "Trebuchet Ms";
+  font-size: 16px;
+  padding: 2px;
+  margin-right: 10px;
+  
+
 .indexdiv {
  display: block;
  border: 3px dashed #FFE4C4;
  width: 170px;
- padding: 35px;
+ height: 500px;
+ padding:55px;
  margin: 20px;
  absolute: right;
   
