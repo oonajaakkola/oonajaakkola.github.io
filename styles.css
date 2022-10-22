@@ -82,9 +82,11 @@ header {
 }
 
 nav {
-  text-align: center;
-  padding: 2px;
-  display: inline;   
+  text-align: left;
+  padding: 5px;
+  display: inline;
+  font-size: 14px;
+  font-family: "Trebuchet Ms";
 }
 
 div {
