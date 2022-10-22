@@ -25,6 +25,10 @@ a:active {
   color: white;
 }
 
+b {
+  color: #5e7564;
+}
+
 aside {
   float: right;
   margin: 65px;
@@ -90,7 +94,7 @@ label {
   font-size: 16px;
   padding: 2px;
   margin-right: 10px;
-  
+}
 
 .indexdiv {
  display: block;
