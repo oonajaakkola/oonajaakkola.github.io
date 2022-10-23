@@ -90,12 +90,12 @@ nav {
 }
 
 div {
+  
  display: block;
  border: 0.5px solid #BC8F8F;
  background-color: #FFEFD5;
- padding: 100px;
- height: 90%;
- margin: 75px;
+ padding: 85px;
+ margin: 50px;
  
 }
 
