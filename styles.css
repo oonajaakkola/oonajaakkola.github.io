@@ -141,6 +141,8 @@ ol {
   
   list-style-type: square;
   font-family: "Trebuchet Ms";
+  margin: 5px;
+  padding 5px;
   
 }
 
@@ -148,6 +150,8 @@ ul {
   
   list-style-type: square;
   font-family: "Trebuchet Ms";
+  margin-left: 5px;
+  padding 5px;
   
 }
 
