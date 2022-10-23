@@ -91,7 +91,8 @@ nav {
 
 div {
  display: block;
- border: 3px dashed #FFE4C4;
+ border: 0.5px solid #BC8F8F;
+ background-color: #FFEFD5;
  padding: 100px;
  height: 90%;
  margin: 75px;
