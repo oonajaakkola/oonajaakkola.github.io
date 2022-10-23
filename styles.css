@@ -33,7 +33,7 @@ a:active {
 
 b {
   
-  color: #DB7093;
+  color: pink;
 }
 
 address {
@@ -48,8 +48,10 @@ aside {
   display: block;
   margin: 45px 30px 30px;
   padding: 25x;
-  background-color: #ffebd9;
+  background-color: #fcf3e3;
   border-radius: 45px;
+  border-width: 2px;
+  border-color: pink; 
   
 }
 
