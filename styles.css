@@ -112,7 +112,9 @@ div {
  background-color: #fcf3e3;
  padding: 70px;
  margin: 40x;
- width: 80%;
+ width: 60%;
+ border-style: inset;
+ border-color: pink;
  
  
 }
