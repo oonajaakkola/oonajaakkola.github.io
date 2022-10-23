@@ -39,8 +39,11 @@ b {
 aside {
   
   float: right;
+  display: block;
   margin: 30px 30px 30px;
   padding: 10x;
+  background-color: #FFDAB9;
+  border-radius: 60px;
   
 }
 
@@ -92,9 +95,9 @@ nav {
 div {
   
  display: block;
- background-color: #F5F5DC;
- padding: 30px;
- margin: 30x;
+ background-color: #fcf3e3;
+ padding: 70px;
+ margin: 40x;
  
  
 }
