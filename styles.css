@@ -42,6 +42,13 @@ address {
   
 }
 
+article {
+  
+  margin-left: 5px;
+  padding 5px;
+  
+}
+
 aside {
   
   float: right;
