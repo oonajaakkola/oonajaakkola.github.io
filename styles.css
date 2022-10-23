@@ -39,7 +39,7 @@ b {
 aside {
   
   float: right;
-  margin: 15px 15px 15px;
+  margin: 30px 30px 30px;
   padding: 10x;
   
 }
@@ -93,8 +93,8 @@ div {
   
  display: block;
  background-color: #F5F5DC;
- padding: 10px;
- margin: 10px;
+ padding: 30px;
+ margin: 30x;
  
  
 }
