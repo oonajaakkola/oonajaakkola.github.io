@@ -49,8 +49,7 @@ aside {
   margin: 45px 30px 30px;
   padding: 25x;
   background-color: #fcf3e3;
-  border-radius: 45px;
-  border-width: 2px;
+  border-style: inset;
   border-color: pink; 
   
 }
