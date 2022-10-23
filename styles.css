@@ -36,14 +36,20 @@ b {
   color: pink;
 }
 
+address {
+  
+  margin-left: 10px;
+  
+}
+
 aside {
   
   float: right;
   display: block;
-  margin: 30px 30px 30px;
-  padding: 10x;
-  background-color: #FFDAB9;
-  border-radius: 60px;
+  margin: 45px 30px 30px;
+  padding: 25x;
+  background-color: #ffe7d1;
+  border-radius: 45px;
   
 }
 
